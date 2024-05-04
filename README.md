@@ -12,6 +12,3 @@ This export was created on 2022-05-07 for https://sourceforge.net/projects/msys2
   contains the [discussions](https://sourceforge.net/p/msys2/discussion/),
   [tickets](https://sourceforge.net/p/msys2/tickets/), and
   [wiki](https://sourceforge.net/p/msys2/wiki/) as JSON + attachments.
-
-This repository is private atm, since it's not clear if it contains data that
-was previously not public. That might not be the case though.
