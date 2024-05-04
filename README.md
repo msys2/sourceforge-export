@@ -1,5 +1,8 @@
 # Sourceforge Export
 
+MSYS2 used to be hosted on Sourceforge. This repository contains the export of
+the project data from Sourceforge.
+
 This export was created on 2022-05-07 for https://sourceforge.net/projects/msys2
 
 * The MBOX file contains the [mailing
